@@ -1,0 +1,430 @@
+{
+    "Result": [
+        {
+            "DAY": "0",
+            "WEIGHT": "42",
+            "CUM_ALL": "0",
+            "CUM_PERIOD": "0"
+        },
+        {
+            "DAY": "1",
+            "WEIGHT": "57",
+            "CUM_ALL": "13",
+            "CUM_PERIOD": "13"
+        },
+        {
+            "DAY": "2",
+            "WEIGHT": "73",
+            "CUM_ALL": "30",
+            "CUM_PERIOD": "30"
+        },
+        {
+            "DAY": "3",
+            "WEIGHT": "91",
+            "CUM_ALL": "50",
+            "CUM_PERIOD": "50"
+        },
+        {
+            "DAY": "4",
+            "WEIGHT": "111",
+            "CUM_ALL": "73",
+            "CUM_PERIOD": "73"
+        },
+        {
+            "DAY": "5",
+            "WEIGHT": "134",
+            "CUM_ALL": "100",
+            "CUM_PERIOD": "100"
+        },
+        {
+            "DAY": "6",
+            "WEIGHT": "160",
+            "CUM_ALL": "131",
+            "CUM_PERIOD": "131"
+        },
+        {
+            "DAY": "7",
+            "WEIGHT": "189",
+            "CUM_ALL": "165",
+            "CUM_PERIOD": "165"
+        },
+        {
+            "DAY": "8",
+            "WEIGHT": "220",
+            "CUM_ALL": "204",
+            "CUM_PERIOD": "204"
+        },
+        {
+            "DAY": "9",
+            "WEIGHT": "256",
+            "CUM_ALL": "247",
+            "CUM_PERIOD": "247"
+        },
+        {
+            "DAY": "10",
+            "WEIGHT": "294",
+            "CUM_ALL": "295",
+            "CUM_PERIOD": "295"
+        },
+        {
+            "DAY": "11",
+            "WEIGHT": "336",
+            "CUM_ALL": "348",
+            "CUM_PERIOD": "53"
+        },
+        {
+            "DAY": "12",
+            "WEIGHT": "381",
+            "CUM_ALL": "406",
+            "CUM_PERIOD": "111"
+        },
+        {
+            "DAY": "13",
+            "WEIGHT": "429",
+            "CUM_ALL": "469",
+            "CUM_PERIOD": "174"
+        },
+        {
+            "DAY": "14",
+            "WEIGHT": "480",
+            "CUM_ALL": "537",
+            "CUM_PERIOD": "242"
+        },
+        {
+            "DAY": "15",
+            "WEIGHT": "535",
+            "CUM_ALL": "611",
+            "CUM_PERIOD": "316"
+        },
+        {
+            "DAY": "16",
+            "WEIGHT": "593",
+            "CUM_ALL": "691",
+            "CUM_PERIOD": "396"
+        },
+        {
+            "DAY": "17",
+            "WEIGHT": "655",
+            "CUM_ALL": "777",
+            "CUM_PERIOD": "482"
+        },
+        {
+            "DAY": "18",
+            "WEIGHT": "719",
+            "CUM_ALL": "869",
+            "CUM_PERIOD": "574"
+        },
+        {
+            "DAY": "19",
+            "WEIGHT": "786",
+            "CUM_ALL": "966",
+            "CUM_PERIOD": "671"
+        },
+        {
+            "DAY": "20",
+            "WEIGHT": "856",
+            "CUM_ALL": "1070",
+            "CUM_PERIOD": "775"
+        },
+        {
+            "DAY": "21",
+            "WEIGHT": "929",
+            "CUM_ALL": "1180",
+            "CUM_PERIOD": "885"
+        },
+        {
+            "DAY": "22",
+            "WEIGHT": "1004",
+            "CUM_ALL": "1296",
+            "CUM_PERIOD": "1001"
+        },
+        {
+            "DAY": "23",
+            "WEIGHT": "1082",
+            "CUM_ALL": "1418",
+            "CUM_PERIOD": "1123"
+        },
+        {
+            "DAY": "24",
+            "WEIGHT": "1162",
+            "CUM_ALL": "1546",
+            "CUM_PERIOD": "1251"
+        },
+        {
+            "DAY": "25",
+            "WEIGHT": "1244",
+            "CUM_ALL": "1679",
+            "CUM_PERIOD": "133"
+        },
+        {
+            "DAY": "26",
+            "WEIGHT": "1328",
+            "CUM_ALL": "1819",
+            "CUM_PERIOD": "273"
+        },
+        {
+            "DAY": "27",
+            "WEIGHT": "1414",
+            "CUM_ALL": "1965",
+            "CUM_PERIOD": "419"
+        },
+        {
+            "DAY": "28",
+            "WEIGHT": "1501",
+            "CUM_ALL": "2116",
+            "CUM_PERIOD": "570"
+        },
+        {
+            "DAY": "29",
+            "WEIGHT": "1590",
+            "CUM_ALL": "2272",
+            "CUM_PERIOD": "726"
+        },
+        {
+            "DAY": "30",
+            "WEIGHT": "1680",
+            "CUM_ALL": "2434",
+            "CUM_PERIOD": "888"
+        },
+        {
+            "DAY": "31",
+            "WEIGHT": "1771",
+            "CUM_ALL": "2601",
+            "CUM_PERIOD": "1055"
+        },
+        {
+            "DAY": "32",
+            "WEIGHT": "1863",
+            "CUM_ALL": "2773",
+            "CUM_PERIOD": "1227"
+        },
+        {
+            "DAY": "33",
+            "WEIGHT": "1956",
+            "CUM_ALL": "2951",
+            "CUM_PERIOD": "1405"
+        },
+        {
+            "DAY": "34",
+            "WEIGHT": "2050",
+            "CUM_ALL": "3132",
+            "CUM_PERIOD": "1586"
+        },
+        {
+            "DAY": "35",
+            "WEIGHT": "2144",
+            "CUM_ALL": "3319",
+            "CUM_PERIOD": "1773"
+        },
+        {
+            "DAY": "36",
+            "WEIGHT": "2239",
+            "CUM_ALL": "3510",
+            "CUM_PERIOD": "1964"
+        },
+        {
+            "DAY": "37",
+            "WEIGHT": "2334",
+            "CUM_ALL": "3705",
+            "CUM_PERIOD": "2159"
+        },
+        {
+            "DAY": "38",
+            "WEIGHT": "2429",
+            "CUM_ALL": "3904",
+            "CUM_PERIOD": "2358"
+        },
+        {
+            "DAY": "39",
+            "WEIGHT": "2524",
+            "CUM_ALL": "4107",
+            "CUM_PERIOD": "2561"
+        },
+        {
+            "DAY": "40",
+            "WEIGHT": "2620",
+            "CUM_ALL": "4314",
+            "CUM_PERIOD": "207"
+        },
+        {
+            "DAY": "41",
+            "WEIGHT": "2715",
+            "CUM_ALL": "4525",
+            "CUM_PERIOD": "418"
+        },
+        {
+            "DAY": "42",
+            "WEIGHT": "2809",
+            "CUM_ALL": "4739",
+            "CUM_PERIOD": "632"
+        },
+        {
+            "DAY": "43",
+            "WEIGHT": "2904",
+            "CUM_ALL": "4956",
+            "CUM_PERIOD": "849"
+        },
+        {
+            "DAY": "44",
+            "WEIGHT": "2997",
+            "CUM_ALL": "5176",
+            "CUM_PERIOD": "1069"
+        },
+        {
+            "DAY": "45",
+            "WEIGHT": "3091",
+            "CUM_ALL": "5399",
+            "CUM_PERIOD": "1292"
+        },
+        {
+            "DAY": "46",
+            "WEIGHT": "3184",
+            "CUM_ALL": "5624",
+            "CUM_PERIOD": "1517"
+        },
+        {
+            "DAY": "47",
+            "WEIGHT": "3276",
+            "CUM_ALL": "5852",
+            "CUM_PERIOD": "1745"
+        },
+        {
+            "DAY": "48",
+            "WEIGHT": "3367",
+            "CUM_ALL": "6083",
+            "CUM_PERIOD": "1976"
+        },
+        {
+            "DAY": "49",
+            "WEIGHT": "3457",
+            "CUM_ALL": "6316",
+            "CUM_PERIOD": "2209"
+        },
+        {
+            "DAY": "50",
+            "WEIGHT": "3547",
+            "CUM_ALL": "6550",
+            "CUM_PERIOD": "2443"
+        },
+        {
+            "DAY": "51",
+            "WEIGHT": "3635",
+            "CUM_ALL": "6787",
+            "CUM_PERIOD": "2680"
+        },
+        {
+            "DAY": "52",
+            "WEIGHT": "3723",
+            "CUM_ALL": "7025",
+            "CUM_PERIOD": "2918"
+        },
+        {
+            "DAY": "53",
+            "WEIGHT": "3809",
+            "CUM_ALL": "7264",
+            "CUM_PERIOD": "3157"
+        },
+        {
+            "DAY": "54",
+            "WEIGHT": "3894",
+            "CUM_ALL": "7505",
+            "CUM_PERIOD": "3398"
+        },
+        {
+            "DAY": "55",
+            "WEIGHT": "3978",
+            "CUM_ALL": "7747",
+            "CUM_PERIOD": "3640"
+        },
+        {
+            "DAY": "56",
+            "WEIGHT": "4061",
+            "CUM_ALL": "7989",
+            "CUM_PERIOD": "3882"
+        },
+        {
+            "DAY": "57",
+            "WEIGHT": "4142",
+            "CUM_ALL": "8233",
+            "CUM_PERIOD": "4126"
+        },
+        {
+            "DAY": "58",
+            "WEIGHT": "4222",
+            "CUM_ALL": "8477",
+            "CUM_PERIOD": "4370"
+        },
+        {
+            "DAY": "59",
+            "WEIGHT": "4300",
+            "CUM_ALL": "8721",
+            "CUM_PERIOD": "4614"
+        },
+        {
+            "DAY": "60",
+            "WEIGHT": "4377",
+            "CUM_ALL": "8965",
+            "CUM_PERIOD": "4858"
+        },
+        {
+            "DAY": "61",
+            "WEIGHT": "4452",
+            "CUM_ALL": "9209",
+            "CUM_PERIOD": "5102"
+        },
+        {
+            "DAY": "62",
+            "WEIGHT": "4526",
+            "CUM_ALL": "9453",
+            "CUM_PERIOD": "5346"
+        },
+        {
+            "DAY": "63",
+            "WEIGHT": "4598",
+            "CUM_ALL": "9696",
+            "CUM_PERIOD": "5589"
+        },
+        {
+            "DAY": "64",
+            "WEIGHT": "4668",
+            "CUM_ALL": "9939",
+            "CUM_PERIOD": "5832"
+        },
+        {
+            "DAY": "65",
+            "WEIGHT": "4737",
+            "CUM_ALL": "10181",
+            "CUM_PERIOD": "6074"
+        },
+        {
+            "DAY": "66",
+            "WEIGHT": "4803",
+            "CUM_ALL": "10421",
+            "CUM_PERIOD": "6314"
+        },
+        {
+            "DAY": "67",
+            "WEIGHT": "4868",
+            "CUM_ALL": "10661",
+            "CUM_PERIOD": "6554"
+        },
+        {
+            "DAY": "68",
+            "WEIGHT": "4931",
+            "CUM_ALL": "10899",
+            "CUM_PERIOD": "6792"
+        },
+        {
+            "DAY": "69",
+            "WEIGHT": "4992",
+            "CUM_ALL": "11135",
+            "CUM_PERIOD": "7028"
+        },
+        {
+            "DAY": "70",
+            "WEIGHT": "5051",
+            "CUM_ALL": "11369",
+            "CUM_PERIOD": "7262"
+        }
+    ]
+}

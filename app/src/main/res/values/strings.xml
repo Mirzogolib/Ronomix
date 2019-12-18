@@ -1,0 +1,48 @@
+<resources>
+    <array name="typeOfMix">
+        <item>Буғдой – Жўхори – Соя – Кунгабоқар</item>
+        <item>Буғдой – Жўхори – Соя</item>
+        <item>Буғдой – Соя – Кунгабоқар</item>
+        <item>Буғдой – Соя</item>
+    </array>
+    <string name="next">Кейингиси</string>
+    <string name="day">Кун</string>
+    <string name="weight">Оғирлиги</string>
+    <string name="quantity">Сони</string>
+    <string name="app_name">Рономих</string>
+    <string name="all_corm">Барча озуқа: </string>
+    <string name="calculatedFor">Қуйидаги учун ҳисобланди</string>
+    <string name="dayDayF">Кун:</string>
+    <string name="quantityDayF">Миқдори:</string>
+    <string name="calculatedWeight">Енг яқин оғирлик учун ҳисобланди</string>
+    <string name="hintDay">Кунини киритинг</string>
+    <string name="hintWeight">Оғирликни граммда киритинг</string>
+    <string name="quantity_of_hens">Товуқлар сони</string>
+    <string name="order">Буюртма бериш</string>
+    <string name="back">Орқага</string>
+    <string name="start">Старт</string>
+    <string name="superStart">Супер Старт</string>
+    <string name="rost">Рост</string>
+    <string name="all">Барчаси</string>
+    <string name="premix">Рономих</string>
+    <string name="corm">Озуқа</string>
+    <string name="calculate">Ҳисоблаш</string>
+    <string name="start_0_10">Старт тури(0-10 кунлар)</string>
+    <string name="typeOfPer">Премикс тури</string>
+    <string name="finish">Финиш</string>
+    <string name="finish_2">Финиш-2</string>
+    <string name="kg">Кг</string>
+    <string name="gr">Гр</string>
+    <string name="sum">Сум</string>
+    <string name="overallPrice">Умумий қиймати:</string>
+    <string name="enter_your_phone_number">Телефон рақамингизни киритинг</string>
+    <string name="enter_your_name_or_organization_name">Исмингиз ёки ташкилот номини киритинг</string>
+    <string name="clientName">Мижоз исми:</string>
+    <string name="phone">Телефон:</string>
+    <string name="azamat_rasulov">Азамат Расулов</string>
+    <string name="totalPrice">Умумий нархи</string>
+    <string name="properNumber">Телефон рақамини тўғри киритинг</string>
+    <string name="allData">Керакли барча маълумотни киритинг</string>
+    <string name="notWorking">Интернет тармоғига уланмаган</string>
+
+</resources>

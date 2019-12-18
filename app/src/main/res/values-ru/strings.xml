@@ -1,0 +1,48 @@
+<resources>
+    <array name="typeOfMix">
+        <item>Пшеница – Кукуруза – Соя – Подсолнечник</item>
+        <item>Пшеница – Кукуруза – Соя</item>
+        <item>Пшеница – Соя – Подсолнечник</item>
+        <item>Пшеница – Соя</item>
+    </array>
+    <string name="next">следующий</string>
+    <string name="day">День</string>
+    <string name="weight">Вес</string>
+    <string name="quantity">Количество</string>
+    <string name="app_name">Ronomix</string>
+    <string name="all_corm">All corm: </string>
+    <string name="calculatedFor">Рассчитано для</string>
+    <string name="dayDayF">Дней:</string>
+    <string name="quantityDayF">Количество:</string>
+    <string name="calculatedWeight">Рассчитано на ближайший вес</string>
+    <string name="hintDay">Введите дни</string>
+    <string name="hintWeight">Введите вес в граммах</string>
+    <string name="quantity_of_hens">Количество кур</string>
+    <string name="order">заказать</string>
+    <string name="back">назад</string>
+    <string name="start">Старт</string>
+    <string name="superStart">Супер Старт</string>
+    <string name="rost">Рост</string>
+    <string name="all">Все</string>
+    <string name="premix">Премикс</string>
+    <string name="corm">Корм</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="start_0_10">Тип Start(0-10 дни)</string>
+    <string name="typeOfPer">Тип Премикса</string>
+    <string name="finish">Финиш</string>
+    <string name="finish_2">Финиш-2</string>
+    <string name="kg">Кг</string>
+    <string name="gr">Гр</string>
+    <string name="sum">Сум</string>
+    <string name="overallPrice">Общая цена:</string>
+    <string name="enter_your_phone_number">Введите свой номер телефона</string>
+    <string name="enter_your_name_or_organization_name">Введите свое имя или название организации</string>
+    <string name="clientName">Имя клиента:</string>
+    <string name="phone">Телефон:</string>
+    <string name="azamat_rasulov">Азамат Расулов</string>
+    <string name="totalPrice">Общая цена</string>
+    <string name="properNumber">Введите правильный номер мобильного телефона</string>
+    <string name="allData">Введите все необходимые данные</string>
+    <string name="notWorking">Интернет не работает</string>
+
+</resources>
