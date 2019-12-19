@@ -6,6 +6,7 @@
     android:background="@drawable/broiler"
     android:orientation="vertical"
     android:layout_gravity="center"
+    android:clickable="true"
     >
 
     <androidx.constraintlayout.widget.ConstraintLayout
